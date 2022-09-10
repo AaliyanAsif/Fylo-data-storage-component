@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+}
+
+* {
+  margin: 0;
+}
+
+.bg {
+  background-image: url(images/bg-desktop.png);
+  height: 50%;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+}
